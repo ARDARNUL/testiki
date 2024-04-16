@@ -1,4 +1,7 @@
 {
-  "name": "testerStudent",
-  "password": "Password1"
+  "login_url": "https://dev.profteam.su/login",
+  "login": "testerAdmin",
+  "password": "Password1",
+  "none_existent_login": "qweasd",
+  "none_existent_password": "qweasd"
 }
