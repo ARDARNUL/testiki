@@ -1,7 +1,19 @@
 {
   "login_url": "https://dev.profteam.su/login",
+
   "login": "testerAdmin",
   "password": "Password1",
-  "none_existent_login": "qweasd",
-  "none_existent_password": "qweasd"
+  "none_existent_login": "fsdfwsdfs",
+  "none_existent_password": "fsdfwsdfs",
+
+  "register_url": "https://dev.profteam.su/registration",
+ 
+  "register_login": "ARDARNUL",
+  "register_email": "ARDARNUL@gmail.com",
+  "register_password": "QWEasd123!",
+  "none_existent_register_login": "ARDARNUL",
+  "none_existent_register_email": "ARDARNUL",
+  "none_existent_register_password": "ARDARNUL",
+  "first_name": "БИБА",
+  "surname": "Боба"
 }
