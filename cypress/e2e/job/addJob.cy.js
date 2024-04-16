@@ -3,13 +3,13 @@ describe("Cypress tests", () => {
     //     cy.fixture("example").then((data) => {
     //         cy.viewport(1920, 1080);
 
-    //         cy.visit(data.login_url)
-    //         cy.log("Вводим логин")
-    //         cy.get('.form-input--text').type("testerEmployer")
-    //         cy.log("Вводим пароль")
-    //         cy.get('.form-input--password').type("Password1")
-    //         cy.log("Нажимаем на кнопку Войти")
-    //         cy.get(':nth-child(3) > .button').click()
+            // cy.visit(data.login_url)
+            // cy.log("Вводим логин")
+            // cy.get('.form-input--text').type("testerEmployer")
+            // cy.log("Вводим пароль")
+            // cy.get('.form-input--password').type("Password1")
+            // cy.log("Нажимаем на кнопку Войти")
+            // cy.get(':nth-child(3) > .button').click()
 
     //         cy.log("Переходим во вкладку Вакансии")
     //         cy.get(':nth-child(7) > .menu-item__item-name')
